@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AlipayMore</string>
+    <string name="etc_cz">ETC充值</string>
+
+    <!--全部应用-->
+    <string-array name="all_apply_name">
+        <item>home</item>
+        <item>商店</item>
+        <item>保洁</item>
+        <item>地铁</item>
+        <item>公交</item>
+        <item>供暖</item>
+        <item>淋浴</item>
+        <item>楼盘</item>
+        <item>洗衣机</item>
+        <item>卫浴</item>
+        <item>学校</item>
+        <item>阳台</item>
+        <item>医院</item>
+    </string-array>
+    <!--全部应用id-->
+    <string-array name="all_apply_id">
+        <item>100001</item>
+        <item>100002</item>
+        <item>100003</item>
+        <item>100004</item>
+        <item>100005</item>
+        <item>100006</item>
+        <item>100007</item>
+        <item>100008</item>
+        <item>100009</item>
+        <item>1000010</item>
+        <item>1000011</item>
+        <item>1000012</item>
+        <item>1000013</item>
+    </string-array>
+    <!--初始化应用-->
+    <string-array name="all_apply_name_s">
+        <item>home</item>
+        <item>商店</item>
+        <item>保洁</item>
+        <item>地铁</item>
+        <item>公交</item>
+        <item>供暖</item>
+    </string-array>
+    <!--初始化应用id-->
+    <string-array name="all_apply_id_s">
+        <item>100001</item>
+        <item>100002</item>
+        <item>100003</item>
+        <item>100004</item>
+        <item>100005</item>
+        <item>100006</item>
+    </string-array>
+</resources>
